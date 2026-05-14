@@ -1,0 +1,6 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+cmpt201      1  0.0  0.0  17008  8136 pts/0    Rs+  11:38   0:03 zsh --login
+cmpt201  19396  0.0  0.0  13480  4464 pts/0    R    16:03   0:00 ps aux
+cmpt201  19397  0.0  0.0  17040  4692 pts/0    S    16:03   0:00 zsh --login
+cmpt201  19398  0.0  0.0  13100  3756 pts/0    D    16:03   0:00 git rev-parse --git-dir
+cmpt201  19399  0.0  0.0  17024  4668 pts/0    S    16:03   0:00 zsh --login
